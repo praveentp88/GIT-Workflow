@@ -1,0 +1,6 @@
+new lines of script
+
+
+{function 1
+
+}
